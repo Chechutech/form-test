@@ -1,0 +1,17 @@
+.footer-container {
+  margin-top: 2em;
+  text-align: center;
+}
+
+.hightlights {
+  color: orange;
+}
+
+@media screen and (max-width: 600px) {
+    .footer-container{
+   margin-top: 1em;
+    }
+    .section-footer-heading{
+        font-size: 1em;
+    }
+}
