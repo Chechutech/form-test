@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/form-test/static/css/main.2096e854.css",
+    "main.js": "/form-test/static/js/main.0dae0f4c.js",
+    "static/media/HeroImage.png": "/form-test/static/media/HeroImage.a0dfe2fd9ed33ffde5fb.png",
+    "static/media/cancelIcon.png": "/form-test/static/media/cancelIcon.bf6a54bd0a9cf7e06d28.png",
+    "static/media/okIcon.png": "/form-test/static/media/okIcon.aacaa6356110a1d3aaf7.png",
+    "index.html": "/form-test/index.html",
+    "main.2096e854.css.map": "/form-test/static/css/main.2096e854.css.map",
+    "main.0dae0f4c.js.map": "/form-test/static/js/main.0dae0f4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2096e854.css",
+    "static/js/main.0dae0f4c.js"
+  ]
+}
